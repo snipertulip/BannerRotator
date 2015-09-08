@@ -1,2 +1,6 @@
 # BannerRotator
+<<<<<<< HEAD
 writting...
+=======
+Writting...
+>>>>>>> origin/master
