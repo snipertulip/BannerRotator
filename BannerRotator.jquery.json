@@ -1,0 +1,38 @@
+{
+    "name": "BannerRotator",
+    "title": "BannerRotator",
+    "description": "",
+    "keywords": [
+        "banner",
+		"rotator",
+        "animation",
+		"html5"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "feva",
+        "email": "snipertulip@gmail.com",
+        "url": "https://github.com/snipertulip"
+    },
+    "maintainers": [
+        {
+            "name": "BannerRotator",
+            "email": "snipertulip@gmail.com",
+            "url": "https://github.com/snipertulip"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/snipertulip/BannerRotator/MIT-LICENSE.txt"
+        }
+    ],
+    "bugs": "https://github.com/snipertulip/BannerRotator/issues",
+    "homepage": "https://github.com/snipertulip/BannerRotator/",
+    "docs": "https://github.com/snipertulip/BannerRotator/",
+    "demo":"https://github.com/snipertulip/BannerRotator/demo",
+    "download": "https://github.com/snipertulip/BannerRotator/zipball/master",
+    "dependencies": {
+        "jquery": ">=1.11.3"
+    }
+}
